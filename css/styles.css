@@ -40,7 +40,8 @@ hr {
   width: 5%;
 }
 p {
-  color: #40514e;
+  /* color: #40514e; */
+  color: yellow;
 }
 .top-cloud {
   display: block;
